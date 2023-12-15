@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://deven367.github.io/learn-pytorch/index.html</loc>
+    <lastmod>2023-12-15T15:51:49.800Z</lastmod>
+  </url>
+  <url>
+    <loc>https://deven367.github.io/learn-pytorch/02-nn-classification.html</loc>
+    <lastmod>2023-12-15T15:51:49.040Z</lastmod>
+  </url>
+  <url>
+    <loc>https://deven367.github.io/learn-pytorch/00-fundamentals.html</loc>
+    <lastmod>2023-12-15T15:51:48.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://deven367.github.io/learn-pytorch/micrograd.html</loc>
+    <lastmod>2023-12-15T15:51:48.724Z</lastmod>
+  </url>
+  <url>
+    <loc>https://deven367.github.io/learn-pytorch/01-workflows.html</loc>
+    <lastmod>2023-12-15T15:51:49.384Z</lastmod>
+  </url>
+</urlset>
